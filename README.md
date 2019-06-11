@@ -3,7 +3,7 @@
 Für Slides und Code Beispiele, siehe [Lektion 14](../../../fhnw-syspr/blob/master/14/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/4lTJUTZM).*
 
 ### a) GPIO, 15'
 * Diese Hands-on Übung basiert auf dem [GPIO Pinout](https://pinout.xyz/pinout/wiringpi) des Raspberry Pi und kann gut zu zweit gelöst werden.
